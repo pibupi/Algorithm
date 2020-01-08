@@ -76,3 +76,4 @@ function passGame(nameList, num) {
 // 测试击鼓传花
 names = ['lili', 'lucy', 'tom', 'lilei', 'zh']
 console.log(passGame(names, 3))
+// 
